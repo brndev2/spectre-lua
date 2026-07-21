@@ -1,0 +1,4 @@
+-- Lua provided by SkyAPI 
+-- Game: It Takes Two
+addappid(1426210)
+addappid(1426211, 1, "c450c44e032e27d0308cf864259fb2af91bcfc58401a0caf33bb8efba85bb323")
