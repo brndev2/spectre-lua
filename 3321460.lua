@@ -1,4 +1,3 @@
--- Generated with Luie @ https://lua.tools/
 -- 3321460 - Crimson Desert
 -- Version-locked to Build 24236217 (Patch Notes Version 1.14.00) — released 2026-07-16 09:06:07 UTC
 -- Generated 2026-08-04 01:36:22 UTC
