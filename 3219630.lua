@@ -1,7 +1,11 @@
+-- Lua provided by RyzenAPI
+-- Game: Halloween: The Game
 
--- Main AppID
-addappid(3219630)
+-- MAIN APP DEPOTS / PACKAGES
+addappid(3219630) --Mainappid Halloween: The Game
+addappid(3219631, 1, "b189d305a354192815d0b3c4ab226bee93b92224596cb287589653b6a9de92cd") --Main Windows Depot Halloween: The Game
+addappid(4686720) --Dlcname Halloween: Digital Deluxe Upgrade
+addtoken(4686720, "11055506196269817430")
 
--- Main Depots
-addappid(3219631, 1, "b189d305a354192815d0b3c4ab226bee93b92224596cb287589653b6a9de92cd")
-setManifestid(3219631, "2046101152724657440", 31221506702)
+-- MANIFESTS / UPDATES
+setManifestid(3219631, "1856736697100285393", 30232920528)
