@@ -1,4 +1,4 @@
--- Lua provided by RyzenAPI
+
 -- Game: Hollow Knight: Silksong
 
 -- MAIN APP DEPOTS / PACKAGES
